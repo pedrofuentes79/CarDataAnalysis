@@ -1,7 +1,6 @@
 Doug,Make,Model,Version,Kilometers,Engine,Fuel Type,Transmission,Year,City,Price,Currency,Link
 Lamborghini Huracan Evo Spyder 2020,Lamborghini,Huracan Evo,Spyder  Malek Fara,1001,V10 5.2,Nafta,Automática secuencial,2023,Capital Federal,123321,USD,https://auto.mercadolibre.com.ar/MLA-1530995974-lamborghini-huracan-evo-spyder-no-ferrari-porsche-malek-fara-_JM
 Lamborghini Urus 2019,Lamborghini,Urus,Malek Fara,1001,V8 Biturbo 650cv,Nafta,Automática secuencial,2023,Capital Federal,123321,USD,https://auto.mercadolibre.com.ar/MLA-1393359903-lamborghini-urus-no-ferrari-no-porsche-malek-fara-_JM
-Lamborghini Huracan 2015,Lamborghini,Huracan Evo,Spyder  Malek Fara,1001,V10 5.2,Nafta,Automática secuencial,2023,Capital Federal,123321,USD,https://auto.mercadolibre.com.ar/MLA-1530995974-lamborghini-huracan-evo-spyder-no-ferrari-porsche-malek-fara-_JM
 Ferrari F12 Berlinetta 2015,Ferrari,F12,F12 Berlinetta,3300,3.0 V6 Turbo 340CV,Nafta,Automática,2018,Capital Federal,900000,ARS,https://auto.mercadolibre.com.ar/MLA-1527051654-ferrari-f12-f12-berlinetta-_JM
 Ford GT 2019,Ford,Mustang,5.0 Gt 421cv,10300,5.0,Nafta,Manual,2019,San Justo,78000,USD,https://auto.mercadolibre.com.ar/MLA-1543098416-ford-mustang-2017-50-gt-421cv-_JM
 Ford GT 2019,Ford,Mustang,5.0 Gt 421cv,22000,5.0,Nafta,Manual,2017,Pilar,80000,USD,https://auto.mercadolibre.com.ar/MLA-1530392588-ford-mustang-50-gt-421cv-2019-_JM
@@ -25,10 +24,8 @@ Ford GT 2017,Ford,Mustang,5.0 Gt 421cv,1000,5.0,Nafta,Manual,2017,Avellaneda,950
 Ford GT 2017,Ford,Mustang,5.0 Gt 421cv,15000,5.0,Nafta,Manual,2017,Córdoba,74900,USD,https://auto.mercadolibre.com.ar/MLA-1385068871-ford-mustang-2017-50-gt-at-_JM
 Ford GT 2017,Ford,Mustang,5.0 Gt 421cv,89000,5.0,Nafta,Manual,2017,Capital Federal,75000,USD,https://auto.mercadolibre.com.ar/MLA-1391411437-ford-mustang-2017-50-gt-421cv-_JM
 Ford GT 2017,Ford,Mustang,5.0 Gt 421cv,31000,5.0,Nafta,Manual,2017,Moreno,78000,USD,https://auto.mercadolibre.com.ar/MLA-1392656723-ford-mustang-2017-50-gt-421cv-_JM
-Ford GT 2017,Ford,Mustang,5.0 Gt 421cv,10300,5.0,Nafta,Manual,2019,San Justo,78000,USD,https://auto.mercadolibre.com.ar/MLA-1543098416-ford-mustang-2017-50-gt-421cv-_JM
 Ford GT 2017,Ford,Mustang,5.0 Gt 421cv,100000,5.0,Nafta,Manual,2017,Vicente López,67000,USD,https://auto.mercadolibre.com.ar/MLA-1392560069-ford-mustang-2017-50-gt-421cv-_JM
 Ford GT 2017,Ford,Mustang,5.0 Gt 421cv,18000,5.0,Nafta,Manual,2017,25 de Mayo,74900,USD,https://auto.mercadolibre.com.ar/MLA-1384949657-ford-mustang-gt-_JM
-Ford GT 2017,Ford,Mustang,5.0 Gt 421cv,22000,5.0,Nafta,Manual,2017,Pilar,80000,USD,https://auto.mercadolibre.com.ar/MLA-1530392588-ford-mustang-50-gt-421cv-2019-_JM
 Ford GT 2017,Ford,Mustang,5.0 Gt 421cv,37000,5.0,Nafta,Manual,2017,Ituzaingó,75000,USD,https://auto.mercadolibre.com.ar/MLA-1385550831-ford-mustang-2017-50-gt-421cv-_JM
 Ford GT 2017,Ford,Mustang,5.0 Gt 421cv,17000,5.0,Nafta,Manual,2017,Córdoba,68000,USD,https://auto.mercadolibre.com.ar/MLA-1392142363-ford-mustang-2017-50-gt-421cv-_JM
 Ford GT 2017,Ford,Mustang,5.0 Gt 421cv,40000,5.0,Nafta,Manual,2017,Capital Federal,75000,USD,https://auto.mercadolibre.com.ar/MLA-1393088611-ford-mustang-gt-v8-50-tivct-32valvulas-421cv-2017-magnaflow-_JM
@@ -111,39 +108,14 @@ Ford F-150 Raptor 2017,Ford,F-150 Raptor,3.5l Bi-turbo,48000,3.5,Diésel,Automá
 BMW M4 Competition 2021,BMW,Serie M,M4 Competition Coupé,0,510 cv,Nafta,Automática,2023,Capital Federal,249900,USD,https://auto.mercadolibre.com.ar/MLA-1380839797-bmw-m4-competition-coupe-_JM
 BMW M4 Competition 2021,BMW,Serie M,M4 Competition Coupé,0,510 CV,Nafta,Automática,2023,Vicente López,249900,USD,https://auto.mercadolibre.com.ar/MLA-1390347609-bmw-m4-competition-coupe-_JM
 BMW M4 Competition 2021,BMW,Serie 4,m4 competition,20000,3.0 T / 6 cil / 510 hp,Nafta,Automática secuencial,2020,Esteban Echeverría,193500,USD,https://auto.mercadolibre.com.ar/MLA-1507083674-bmw-serie-4-m4-competition-_JM
-Aston Martin Vantage Roadster 2021,Aston Martin,Vantage,ROADSTER SPORTSHIFT V8,31000,V8,Nafta,Automática,2009,Capital Federal,169900,USD,https://auto.mercadolibre.com.ar/MLA-1387693057-aston-martin-vantage-roadster-ferrari-porsche-maserati-_JM
-Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,16500,3.5,Nafta,Automática,2021,La Matanza,97000,USD,https://auto.mercadolibre.com.ar/MLA-1388802497-ford-f-150-raptor-2021-negro-16500-kms-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,42000,2.0,Diésel,Automática,2021,Pilar,95000,USD,https://auto.mercadolibre.com.ar/MLA-1528918938-ford-f-150-2021-f-150-raptor-_JM
-Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,58000,3.5,Nafta,Automática,2021,Córdoba,88000,USD,https://auto.mercadolibre.com.ar/MLA-1393167135-ford-f-150-raptor-35-v6-456hp-4x4-_JM
-Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,25000,3.5,Nafta,Automática,2021,La Falda,90000,USD,https://auto.mercadolibre.com.ar/MLA-1390973059-ford-f-150-raptor-2021-35l-bi-turbo-_JM
-Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,150000,3.5,Nafta,Automática,2021,Capital Federal,75000,USD,https://auto.mercadolibre.com.ar/MLA-1391561207-ford-f150-raptor-_JM
 Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,30000,3.5,Nafta,Automática,2021,Ezeiza,99800,USD,https://auto.mercadolibre.com.ar/MLA-1393224151-ford-f-150-raptor-2021-35l-bi-turbo-_JM
 Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,58000,3.5,Nafta,Automática,2021,Vicente López,110000,USD,https://auto.mercadolibre.com.ar/MLA-1385250443-ford-f-150-raptor-2021-35l-bi-turbo-blindada-rb3-tomas-bord-_JM
 Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,16500,3.5,Nafta,Automática,2021,Capital Federal,97000,USD,https://auto.mercadolibre.com.ar/MLA-1388850553-ford-f-150-raptor-unica-mano-negro-2021-16500-kms-_JM
 Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,30000,3.5,Nafta,Automática,2021,La Matanza,105000,USD,https://auto.mercadolibre.com.ar/MLA-1388059731-ford-f-150-raptor-2020-35l-bi-turbo-_JM
 Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,37000,3.5,Nafta,Automática,2021,Yerba Buena,100000,USD,https://auto.mercadolibre.com.ar/MLA-1391176787-ford-f-150-raptor-2021-35l-bi-turbo-_JM
 Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,170000,3.5,Nafta,Automática,2021,Capital Federal,77000,USD,https://auto.mercadolibre.com.ar/MLA-1524507170-ford-f-150-raptor-2021-35l-bi-turbo-_JM
-Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,20840,3.5,Nafta,Automática,2022,Pilar,109000,USD,https://auto.mercadolibre.com.ar/MLA-1392534103-ford-f-150-f-150-raptor-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2022,Vicente López,115000,USD,https://auto.mercadolibre.com.ar/MLA-1495891516-f-150-raptor-ford-peunord-v6-4x4-ano-2022-0-km-at-35l-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2022,Vicente López,115000,USD,https://auto.mercadolibre.com.ar/MLA-1386488797-peunord-ford-f-150-raptor-35l-v6-4x4-at-0-km-ano-2022-_JM
-Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,57000,3.5,Nafta,Automática,2020,Capital Federal,83000,USD,https://auto.mercadolibre.com.ar/MLA-1533703548-ford-f150-raptor-2020-v6-at-4x4-smart-garage-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2023,Zárate,114950000,USD,https://auto.mercadolibre.com.ar/MLA-1392032417-ford-f-150-raptor-35l-bi-turbo-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,17800,2.0,Diésel,Automática,2022,Capital Federal,109000,USD,https://auto.mercadolibre.com.ar/MLA-1499428022-ford-f150-raptor-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2022,San Isidro,101314400,USD,https://auto.mercadolibre.com.ar/MLA-1530982234-ford-f-150-raptor-pv-_JM
-Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,1200,3.5,Nafta,Automática,2023,San Miguel,128000,USD,https://auto.mercadolibre.com.ar/MLA-1391056567-ford-f-150-raptor-2023-35l-bi-turbo-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,49600,2.0,Nafta,Automática,2020,Resistencia,95000,USD,https://auto.mercadolibre.com.ar/MLA-1472012720-ford-f-150-raptor-35l-v6-ecoboost-4x4-at-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2022,Tigre,114950000,USD,https://auto.mercadolibre.com.ar/MLA-1532665576-ford-ranger-f-150-raptor-entrega-inmediata-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2022,Tigre,114950000,USD,https://auto.mercadolibre.com.ar/MLA-1371938985-ford-f-150-raptor-35-v6-bi-turbo-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2023,Berazategui,119000,USD,https://auto.mercadolibre.com.ar/MLA-1425608608-ford-f-150-raptor-0km-patentada-2023-_JM
-Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,56000,3.5,Nafta,Automática,2020,Capital Federal,105000,USD,https://auto.mercadolibre.com.ar/MLA-1391170037-ford-f-150-raptor-2020-35l-bi-turbo-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,36235,2.0,Diésel,Automática,2023,Capital Federal,95000,USD,https://auto.mercadolibre.com.ar/MLA-1491156198-ford-f150-raptor-35-v6-4x4-at-2023-36235km-viel-automotores-_JM
-Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,0,3.5,Nafta,Automática,2022,9 de Julio,105000,USD,https://auto.mercadolibre.com.ar/MLA-1377092028-ford-f-150-raptor-2022-35l-bi-turbo-_JM
-Ford F-150 Raptor 2021,Ford,F-150,F-150 Raptor,76101,2.0,Diésel,Automática,2020,Capital Federal,100000,USD,https://auto.mercadolibre.com.ar/MLA-1384715537-ford-f-150-raptor-_JM
-Ford F-150 Raptor 2021,Ford,F-150 Raptor,3.5l Bi-turbo,31000,3.5,Nafta,Automática,2020,Capital Federal,100000,USD,https://auto.mercadolibre.com.ar/MLA-1393056333-ford-f-150-raptor-2020-35l-bi-turbo-_JM
-Porsche 911 Turbo 2007,Porsche,911,3.8 Turbo S,77000,3.8,Nafta,Manual,1998,San Isidro,299000,USD,https://auto.mercadolibre.com.ar/MLA-1533910398-porsche-911-turbo-930-1980-_JM
 Porsche 911 Turbo 2007,Porsche,911,CABRIO TURBO LOOK 83,35000,3.5,Nafta,Manual,2023,Vicente López,124900,USD,https://auto.mercadolibre.com.ar/MLA-1382721201-porsche-911-cabrio-turbo-look-83-_JM
 Porsche 911 Turbo 2007,Porsche,911,911 930 cabrio turbo look,30000,3.5,Nafta,Manual,1983,Vicente López,124900,USD,https://auto.mercadolibre.com.ar/MLA-1382277577-porsche-911-cabrio-turbo-look-paxton-supercharged-1983-_JM
-Porsche 911 Turbo 2007,Porsche,911,3.8 Turbo S 580cv,1200,3.8,Nafta,Automática,2022,Capital Federal,400004,USD,https://auto.mercadolibre.com.ar/MLA-1506175386-porsche-911-911-turbo-s-_JM
 Audi RS3 2018,Audi,RS3,Sportback 2.5 TFSI QUATTRO,29000,2.5 Tfsi Quattro,Nafta,Automática secuencial,2018,Pilar,105000,USD,https://auto.mercadolibre.com.ar/MLA-1543811334-audi-rs3-sportback-quattro-_JM
 Audi RS3 2018,Audi,RS3,Sportback 2.5 TFSI QUATTRO,36000,2.5 Tfsi Quattro,Nafta,Automática,2018,Pilar,95000,USD,https://auto.mercadolibre.com.ar/MLA-1527203664-audi-rs3-sportback-25-tfsi-quattro-2018-_JM
 Audi RS3 2018,Audi,RS3,2.5 Sedan 400cv,565,2.5,Nafta,Automática,2018,San Isidro,135000,USD,https://auto.mercadolibre.com.ar/MLA-1386710213-audi-rs3-25-tfsi-quattro-stro-sportba-2018-_JM
@@ -221,45 +193,25 @@ Mercedes-Benz GLE450 2020,Mercedes-Benz,Clase GLE,3.0 Gle450 4matic 367cv,40000,
 Mercedes-Benz GLE450 2020,Mercedes-Benz,Clase GLE,3.0 Gle450 4matic 367cv,42000,3.0,Nafta,Automática,2021,Pilar,230000,USD,https://auto.mercadolibre.com.ar/MLA-1393150407-mercedes-benz-clase-gle-30-gle-53-4matic-435cv-_JM
 Mercedes-Benz GLE450 2020,Mercedes-Benz,Clase GLE,3.0 Gle450 4matic 367cv,0,3.0,Nafta,Automática,2023,Rosario,232500,USD,https://auto.mercadolibre.com.ar/MLA-1464638596-mercedes-benz-gle-450-amg-line-fl-_JM
 Ford Raptor 2013,Ford,Ranger Raptor,2.0l Biturbo Cabina Doble 4x4,38000,2.0,Diésel,Automática,2022,Capital Federal,59000,USD,https://auto.mercadolibre.com.ar/MLA-1505056424-ford-ranger-raptor-2022-20l-biturbo-cabina-doble-4x4-_JM
-Ford Raptor 2013,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2022,Vicente López,115000,USD,https://auto.mercadolibre.com.ar/MLA-1495891516-f-150-raptor-ford-peunord-v6-4x4-ano-2022-0-km-at-35l-_JM
-Ford Raptor 2013,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2022,Vicente López,115000,USD,https://auto.mercadolibre.com.ar/MLA-1386488797-peunord-ford-f-150-raptor-35l-v6-4x4-at-0-km-ano-2022-_JM
 Ford Raptor 2013,Ford,Ranger Raptor,2.0l Biturbo Cabina Doble 4x4,40000,2.0,Diésel,Automática,2020,Pilar,44000,USD,https://auto.mercadolibre.com.ar/MLA-1382539725-ford-ranger-raptor-20l-biturbo-cabina-doble-4x4-_JM
 Ford Raptor 2013,Ford,Ranger Raptor,2.0l Biturbo Cabina Doble 4x4,0,2.0,Diésel,Automática,2023,Vicente López,95500,USD,https://auto.mercadolibre.com.ar/MLA-1392180365-peunord-ford-ranger-raptor-2023-20l-biturbo-4x4-0-km-_JM
 Ford Raptor 2013,Ford,Ranger Raptor,2.0l Biturbo Cabina Doble 4x4,0,2.0,Diésel,Automática,2023,Capital Federal,90770,USD,https://auto.mercadolibre.com.ar/MLA-1391595631-ford-ranger-raptor-2023-_JM
-Ford Raptor 2013,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2023,Zárate,114950000,USD,https://auto.mercadolibre.com.ar/MLA-1392032417-ford-f-150-raptor-35l-bi-turbo-_JM
 Ford Raptor 2013,Ford,Ranger Raptor,2.0l Biturbo Cabina Doble 4x4,0,2.0,Diésel,Automática,2023,Pilar,110000,USD,https://auto.mercadolibre.com.ar/MLA-1391795037-ford-ranger-raptor-biturbo-cabina-doble-4x4-_JM
-Ford Raptor 2013,Ford,F-150,F-150 Raptor,17800,2.0,Diésel,Automática,2022,Capital Federal,109000,USD,https://auto.mercadolibre.com.ar/MLA-1499428022-ford-f150-raptor-_JM
-Ford Raptor 2013,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2022,San Isidro,101314400,USD,https://auto.mercadolibre.com.ar/MLA-1530982234-ford-f-150-raptor-pv-_JM
 Ford Raptor 2013,Ford,Ranger Raptor,2.0l Biturbo Cabina Doble 4x4,31000,2.0,Diésel,Automática,2020,General San Martín,46000,USD,https://auto.mercadolibre.com.ar/MLA-1511628728-ford-ranger-raptor-20l-biturbo-cabina-doble-4x4-unico-dueno-_JM
 Ford Raptor 2013,Ford,Ranger Raptor,2.0l Biturbo Cabina Doble 4x4,54000,2.0,Diésel,Automática,2021,Moreno,39000,USD,https://auto.mercadolibre.com.ar/MLA-1499207428-ford-ranger-raptor-20-4x4-at-2021-632025-_JM
-Ford Raptor 2013,Ford,F-150 Raptor,3.5l Bi-turbo,1200,3.5,Nafta,Automática,2023,San Miguel,128000,USD,https://auto.mercadolibre.com.ar/MLA-1391056567-ford-f-150-raptor-2023-35l-bi-turbo-_JM
-Ford Raptor 2013,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2022,Tigre,114950000,USD,https://auto.mercadolibre.com.ar/MLA-1532665576-ford-ranger-f-150-raptor-entrega-inmediata-_JM
-Ford Raptor 2013,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2022,Tigre,114950000,USD,https://auto.mercadolibre.com.ar/MLA-1371938985-ford-f-150-raptor-35-v6-bi-turbo-_JM
 Ford Raptor 2013,Ford,Ranger Raptor,2.0l Biturbo Cabina Doble 4x4,52400,2.0,Diésel,Automática,2020,Vicente López,46000,USD,https://auto.mercadolibre.com.ar/MLA-1386641953-ford-ranger-raptor-20l-biturbo-4x4-dc-porsche-argentina-_JM
-Ford Raptor 2013,Ford,F-150,F-150 Raptor,0,2.0,Diésel,Automática,2023,Berazategui,119000,USD,https://auto.mercadolibre.com.ar/MLA-1425608608-ford-f-150-raptor-0km-patentada-2023-_JM
-Ford Raptor 2013,Ford,F-150 Raptor,3.5l Bi-turbo,0,3.5,Nafta,Automática,2022,9 de Julio,105000,USD,https://auto.mercadolibre.com.ar/MLA-1377092028-ford-f-150-raptor-2022-35l-bi-turbo-_JM
-Ford Raptor 2013,Ford,F-150 Raptor,3.5l Bi-turbo,31000,3.5,Nafta,Automática,2020,Capital Federal,100000,USD,https://auto.mercadolibre.com.ar/MLA-1393056333-ford-f-150-raptor-2020-35l-bi-turbo-_JM
-Ford Raptor 2013,Ford,F-150 Raptor,3.5l Bi-turbo,8000,3.5,Nafta,Automática,2022,Vicente López,120000,USD,https://auto.mercadolibre.com.ar/MLA-1544182494-ford-f-150-raptor-2022-35l-bi-turbo-linea-nueva-_JM
 Ford Raptor 2013,Ford,Ranger Raptor,2.0l Biturbo Cabina Doble 4x4,0,2.0,Diésel,Automática,2022,9 de Julio,64000000,USD,https://auto.mercadolibre.com.ar/MLA-1436537894-ford-ranger-raptor-2022-20l-biturbo-cabina-doble-4x4-_JM
-Ford Raptor 2013,Ford,F-150 Raptor,3.5l Bi-turbo,500,3.5,Nafta,Automática,2023,Capital Federal,135000,USD,https://auto.mercadolibre.com.ar/MLA-1543220536-ford-f-150-raptor-2023-35l-bi-turbo-_JM
 Ford Raptor 2013,Ford,Ranger Raptor,2.0l Biturbo Cabina Doble 4x4,0,2.0,Diésel,Automática,2023,Almirante Brown,95000,USD,https://auto.mercadolibre.com.ar/MLA-1385293793-ford-ranger-raptor-30l-biturbo-4x4-at-_JM
 Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,39000,5.0,Nafta,Manual,2018,Pilar,80000,USD,https://auto.mercadolibre.com.ar/MLA-1529131972-ford-mustang-50-gt-421cv-_JM
 Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,0,5.0,Nafta,Manual,2023,Capital Federal,81491000,USD,https://auto.mercadolibre.com.ar/MLA-1368081541-ford-mustang-50-gt-v8-466cv-at10-_JM
-Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,13000,5.0,Nafta,Manual,2017,Capital Federal,74000,USD,https://auto.mercadolibre.com.ar/MLA-1471215686-ford-mustang-50-gt-421cv-2017-_JM
 Ford Mustang GT 2018,Ford,Mustang,5.0 Coupe V8 Gt,30000,5.0,Nafta,Manual,2006,San Isidro,55000,USD,https://auto.mercadolibre.com.ar/MLA-1482904010-ford-mustang-2006-50-coupe-v8-gt-_JM
-Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,1000,5.0,Nafta,Manual,2017,Avellaneda,95000,USD,https://auto.mercadolibre.com.ar/MLA-1485712636-ford-mustang-gt-50l-v8-at-2017-_JM
-Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,15000,5.0,Nafta,Manual,2017,Córdoba,74900,USD,https://auto.mercadolibre.com.ar/MLA-1385068871-ford-mustang-2017-50-gt-at-_JM
 Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,47000,5.0,Nafta,Manual,2016,Mar del Plata,70000,USD,https://auto.mercadolibre.com.ar/MLA-1387137983-ford-mustang-gt-2016-_JM
 Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,500,5.0,Nafta,Manual,2022,Córdoba,115000,USD,https://auto.mercadolibre.com.ar/MLA-1391945893-mustang-mach-1-pack-_JM
-Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,89000,5.0,Nafta,Manual,2017,Capital Federal,75000,USD,https://auto.mercadolibre.com.ar/MLA-1391411437-ford-mustang-2017-50-gt-421cv-_JM
-Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,31000,5.0,Nafta,Manual,2017,Moreno,78000,USD,https://auto.mercadolibre.com.ar/MLA-1392656723-ford-mustang-2017-50-gt-421cv-_JM
-Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,10300,5.0,Nafta,Manual,2019,San Justo,78000,USD,https://auto.mercadolibre.com.ar/MLA-1543098416-ford-mustang-2017-50-gt-421cv-_JM
 Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,700,5.0,Nafta,Manual,2023,Tigre,109000,USD,https://auto.mercadolibre.com.ar/MLA-1544239862-ford-mustang-2023-50-gt-421cv-_JM
 Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,1000,5.0,Nafta,Manual,2022,Capital Federal,90000,USD,https://auto.mercadolibre.com.ar/MLA-1543915482-ford-mustang-_JM
 Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,39900,5.0,Nafta,Manual,2016,Capital Federal,66999,USD,https://auto.mercadolibre.com.ar/MLA-1383962827-ford-mustang-2016-50-gt-421cv-_JM
 Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,0,5.0,Nafta,Manual,2023,Bahía Blanca,110000,USD,https://auto.mercadolibre.com.ar/MLA-1507013816-ford-mustang-mach-1-_JM
 Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,0,5.0,Nafta,Manual,2023,Del Viso,120000,USD,https://auto.mercadolibre.com.ar/MLA-1377608241-ford-mustang-2023-50-gt-421cv-_JM
-Ford Mustang GT 2018,Ford,Mustang,5.0 Gt 421cv,100000,5.0,Nafta,Manual,2017,Vicente López,67000,USD,https://auto.mercadolibre.com.ar/MLA-1392560069-ford-mustang-2017-50-gt-421cv-_JM
 Ford Mustang GT 2018,Ford,Mustang,5.0 Coupe V8 Gt,60000,5.0,Nafta,Manual,2006,San Vicente,65000,USD,https://auto.mercadolibre.com.ar/MLA-1504540422-ford-mustang-gt-convertible-_JM
 Ford Mustang GT 2018,Ford,Mustang,GT Shelby,65423,V8 4.6L,Nafta,Manual,2008,Vicente López,56900,USD,https://auto.mercadolibre.com.ar/MLA-1467693170-ford-mustang-_JM
 Chevrolet SS 2017,Chevrolet,Camaro,6.2 Coupe Ss V8,38000,6.2,Nafta,Manual,2017,Tigre,90000,USD,https://auto.mercadolibre.com.ar/MLA-1386665787-chevrolet-camaro-2017-_JM
@@ -423,23 +375,7 @@ Mercedes-Benz CLA45 2016,Mercedes-Benz,Clase CLA,2.0 Cla45 Amg 360cv At,95000,2.
 Mercedes-Benz CLA45 2016,Mercedes-Benz,Clase CLA,2.0 Cla45 Amg 360cv At,38000,2.0,Nafta,Automática,2015,General San Martín,60000,USD,https://auto.mercadolibre.com.ar/MLA-1538665276-mercedes-benz-clase-cla-2015-20-cla45-amg-360cv-at-_JM
 Mercedes-Benz CLA45 2016,Mercedes-Benz,Clase CLA,2.0 Cla45 Amg 360cv At,27000,2.0,Nafta,Automática,2015,Córdoba,70000,USD,https://auto.mercadolibre.com.ar/MLA-1532598202-cla-45-amg-4matic-2015-_JM
 Mercedes-Benz CLA45 2016,Mercedes-Benz,Clase CLA,2.0 Cla45 Amg 360cv At,40000,2.0,Nafta,Automática,2015,Yerba Buena,61000,USD,https://auto.mercadolibre.com.ar/MLA-1391292795-mercedes-benz-cla-a45-amg-turbo-cla-a45-amg-turbo-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.5 Td 200,100500,4.5,Nafta,Automática,2018,San Rafael,130000,USD,https://auto.mercadolibre.com.ar/MLA-1390203941-toyota-land-cruiser-2018-45-td-200-_JM
 Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.5 Td 200 Vx 265cv At W/floormat,20000,4.5,Nafta,Automática,2018,Capital Federal,145000,USD,https://auto.mercadolibre.com.ar/MLA-1524883052-toyota-land-cruiser-200-unica-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.0 Prado Vx At,102465,4.0,Nafta,Automática,2016,San Isidro,125000,USD,https://auto.mercadolibre.com.ar/MLA-1435260038-toyota-land-cruiser-200-45-d4-d-vx-at-2016-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.5 200 Vx 265cv At W/floormat,160000,4.5,Diésel,Automática,2013,Vicente López,64000,USD,https://auto.mercadolibre.com.ar/MLA-1498152148-toyota-land-cruiser-45-200-vx-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,3.0 Prado Mt,157000,3.0,Diésel,Manual,2009,Capital Federal,24000,USD,https://auto.mercadolibre.com.ar/MLA-1390862339-toyota-land-cruiser-prado-30-vx-4x4-mt-2009-as-automobili-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.0 Prado Vx At,163000,4.0,Diésel,Automática,2011,Hurlingham,32000,USD,https://auto.mercadolibre.com.ar/MLA-1536228296-toyota-land-cruiser-prado-40-vx-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.0 Prado Txl At,240000,4.0,Diésel,Automática,2012,Pilar,29500,USD,https://auto.mercadolibre.com.ar/MLA-1390374065-toyota-land-cruiser-2012-40-prado-txl-at-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,3.0 Prado At,340000,3.0,Diésel,Automática,2004,Pilar,16900,USD,https://auto.mercadolibre.com.ar/MLA-1390918609-toyota-land-cruiser-2004-30-prado-at-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.0 Prado Vx At,278000,4.0,Diésel,Automática,2010,Pilar,27500,USD,https://auto.mercadolibre.com.ar/MLA-1543090172-toyota-land-cruiser-2010-40-prado-vx-at-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.0 Prado Txl At,285000,4.0,Diésel,Automática,2012,Vicente López,21900,USD,https://auto.mercadolibre.com.ar/MLA-1390242977-toyota-land-cruiser-2012-40-prado-txl-at-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,3.0 Prado,230000,3.0,Diésel,Manual,2005,Capital Federal,18500,USD,https://auto.mercadolibre.com.ar/MLA-1390887195-toyota-land-cruiser-2005-durzo-automoviles-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.5 200 V8 D4-d 235cv At,200000,4.5,Diésel,Automática,2010,Pilar,49000,USD,https://auto.mercadolibre.com.ar/MLA-1543090880-toyota-land-cruiser-2010-45-200-v8-d4-d-235cv-at-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.5 200 Vx 265cv At W/floormat,191000,4.5,Diésel,Automática,2013,Capital Federal,58000,USD,https://auto.mercadolibre.com.ar/MLA-1393175273-toyota-land-cruiser-45-200-vx-265cv-at-wfloormat-impecable-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.0 Prado Vx At,128000,4.0,Nafta,Automática,2013,Ushuaia,35000,USD,https://auto.mercadolibre.com.ar/MLA-1392601745-toyota-land-cruiser-prado-vx-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.0 Prado Txl At,200000,4.0,Nafta,Automática,2012,Godoy Cruz,29900,USD,https://auto.mercadolibre.com.ar/MLA-1389945945-toyota-land-cruiser-prado-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,Land Cruiser BJ 75,465000,2.4,Diésel,Manual,1989,La Plata,27500,USD,https://auto.mercadolibre.com.ar/MLA-1393368509-toyota-land-cruiser-land-cruiser-bj-75-_JM
-Toyota Land Cruiser 2018,Toyota,Land Cruiser,4.0 Prado Txl At,298780,4,Nafta,Automática,2012,San Luis,24000000,USD,https://auto.mercadolibre.com.ar/MLA-1385314315-toyota-land-cruiser-prado-40-at-txl-2012-_JM
 Volvo XC40 T5 2019,Volvo,XC40 AWD,T5 Awd,85000,2.4,Nafta,Manual,2019,Capital Federal,48500,USD,https://auto.mercadolibre.com.ar/MLA-1388964891-volvo-xc40-t5-_JM
 Volvo XC40 T5 2019,Volvo,XC40,2.0t T5 R-design Awd,0,2.0,Nafta,Automática,2023,Godoy Cruz,105000,USD,https://auto.mercadolibre.com.ar/MLA-1387648755-volvo-xc40-t4-ultimate-dark-recharge-_JM
 Volvo XC40 T5 2019,Volvo,XC40,T5 AWD MOMENTUM,50000,2.0T 247HP,Nafta,Automática,2018,Vicente López,49900,USD,https://auto.mercadolibre.com.ar/MLA-1522486932-volvo-xc40-mometum-t5-awd-_JM
@@ -740,16 +676,12 @@ Land Rover Range Rover 2006,Land Rover,Range Rover Sport,3.0 V6 Hse,71000,3.0,Di
 Land Rover Range Rover 2006,Land Rover,Range Rover Sport,2.7 Hse V6,132000,2.7,Diésel,Automática,2008,Godoy Cruz,27000,USD,https://auto.mercadolibre.com.ar/MLA-1475931294-land-rover-range-rover-sport-diesel-_JM
 Land Rover Range Rover 2006,Land Rover,Range Rover Vogue,Puré Plus 240cv.,142000,240cv,Nafta,Automática,2012,Pilar,22900,USD,https://auto.mercadolibre.com.ar/MLA-1531716462-land-rover-range-rover-evoque-pure-plus-240cv-_JM
 Land Rover Range Rover 2006,Land Rover,Range Rover,4.0 Se,200000,4.0,Nafta,Manual,1998,Malvinas Argentinas,14900,USD,https://auto.mercadolibre.com.ar/MLA-1392699967-land-rover-range-rover-40-se-_JM
-Land Rover Range Rover 2006,Land Rover,Range Rover,Evoque 2.0 Tpure Plus,108000,2.0,Nafta,Automática secuencial,2013,Godoy Cruz,33000,USD,https://auto.mercadolibre.com.ar/MLA-1487468798-range-rover-evoque-20-t-pure-plus-gencosa-_JM
-Land Rover Range Rover 2006,Land Rover,Range Rover,Evoque,67299,2.0,Nafta,Automática,2017,Capital Federal,56500,USD,https://auto.mercadolibre.com.ar/MLA-1510953908-land-rover-range-rover-evoque-si4-20-_JM
-Land Rover Range Rover 2006,Land Rover,Range Rover Sport,supercharged 4.2 V8 396cv,65000,4.2 V8,Nafta,Automática,2007,Tigre,29000,USD,https://auto.mercadolibre.com.ar/MLA-1390064121-range-rover-sport-supercharged-_JM
 Land Rover Range Rover 2006,Land Rover,Range Rover Sport,3.0 V6 Hse,201392,4.2 V8,Diésel,Automática,2012,San Isidro,35000,USD,https://auto.mercadolibre.com.ar/MLA-1384336467-land-rover-range-rover-30-tdv6-sport-2012-_JM
 Land Rover Range Rover 2006,Land Rover,Range Rover Sport,5.0 V8 Hse,91000,5.0,Nafta,Automática,2013,Capital Federal,50900,USD,https://auto.mercadolibre.com.ar/MLA-1544250872-land-rover-range-rover-sport-hse-v8-2013-_JM
 Land Rover Range Rover 2006,Land Rover,Range Rover Sport,3.0 V6 S/c Hse,64800,5.0,Nafta,Automática,2017,Pilar,93000,USD,https://auto.mercadolibre.com.ar/MLA-1468944078-rover-land-rov-range-rover-30-v6-sport-ii-sc-hse-2017-_JM
 Land Rover Range Rover 2006,Land Rover,Range Rover Sport,3.6 Hse V8,135000,3.6,Diésel,Automática,2009,Rosario,27000,USD,https://auto.mercadolibre.com.ar/MLA-1544903634-land-rover-range-rover-sport-2009-36-hse-v8-_JM
 Land Rover Range Rover 2006,Land Rover,Range Rover,velar ps300,13000,3.6,Nafta,Automática,2021,Capital Federal,215000,USD,https://auto.mercadolibre.com.ar/MLA-1384291855-land-rover-range-rover-velar-ps300-_JM
 Land Rover Range Rover 2006,Land Rover,Range Rover,Prestige,87000,3.6,Nafta,Automática,2013,Mar del Plata,35000,USD,https://auto.mercadolibre.com.ar/MLA-1524505490-land-rover-range-rover-prestige-_JM
-Land Rover Range Rover 2006,Land Rover,Range Rover,Evoque 2.0 SE 240cv,48000,3.6,Nafta,Automática,2017,San Isidro,45500,USD,https://auto.mercadolibre.com.ar/MLA-1387695473-land-rover-range-rover-evoque-20-se-240cv-_JM
 Land Rover Range Rover 2006,Land Rover,Range Rover,3.6 V8 Sport Hse,175000,3.6,Diésel,Automática,2007,San Isidro,28500,USD,https://auto.mercadolibre.com.ar/MLA-1393009989-land-rover-range-rover-36-v8-sport-hse-_JM
 Land Rover Range Rover 2006,Land Rover,Range Rover,4.0 Se,240000,4.0,Nafta,Manual,1995,Esteban Echeverría,25000,USD,https://auto.mercadolibre.com.ar/MLA-1391174799-land-rover-range-rover-1995-40-se-_JM
 Land Rover Range Rover 2006,Land Rover,Range Rover,4.0 Se,240000,4.0,Nafta,Manual,1995,Esteban Echeverría,15000,USD,https://auto.mercadolibre.com.ar/MLA-1391749219-land-rover-range-rover-1995-40-se-_JM
@@ -836,7 +768,7 @@ Ford Ranger 2019,Ford,Ranger Raptor,2.0 Tdi Dc 4x4 Aut,100000,3.2,Diésel,Autom�
 Ford Ranger 2019,Ford,Ranger,3.2 Cd Xls Tdci 200cv Manual 4x2,80000,3.2,Diésel,Manual,2019,Pilar,11500000,ARS,https://auto.mercadolibre.com.ar/MLA-1492934212-ford-ranger-2019-32-cd-xls-tdci-200cv-manual-4x2-_JM
 Ford Ranger 2019,Ford,Ranger Raptor,2.0 Tdi D/C 4X4 Raptor AT,51000,3.2,Diésel,Automática,2019,Capital Federal,42000,ARS,https://auto.mercadolibre.com.ar/MLA-1543918892-ford-ranger-20-tdi-dc-4x4-raptor-at-2019-imolaautos-_JM
 Ford Ranger 2019,Ford,Ranger,3.2 Cd Xlt Tdci 200cv Manual 4x4,149920,3.2,Diésel,Manual,2019,La Plata,18000000,ARS,https://auto.mercadolibre.com.ar/MLA-1390306263-ford-ranger-dc-4x4-xlt-at-32l-d-_JM
-Ford Ranger 2019,Ford,Ranger,2.2 Cd Xl Tdci 150cv 4x2,33000,2.2,Diésel,Manual,2019,Lanús,18700,ARS,https://auto.mercadolibre.com.ar/MLA-1388234235-ford-ranger-_JM
+Hummer H2 2005,Hummer,H2,H2,2000000 km,vortec,Nafta,Automática,2004,Capital Federal,170000,USD,https://auto.mercadolibre.com.ar/MLA-1383931577-hummer-h2-_JM
 Ford Ranger 2019,Ford,Ranger,3.2 Cd Xlt Tdci 200cv Automática 4x4,60000,3.2,Diésel,Automática,2019,Colón,30000,ARS,https://auto.mercadolibre.com.ar/MLA-1545930322-ford-ranger-2019-32-cd-xlt-tdci-200cv-automatica-4x4-_JM
 Ford Ranger 2019,Ford,Ranger Raptor,2.0 bit 4x4 10a/t,67000,2.0,Diésel,Automática,2019,Berazategui,39700,ARS,https://auto.mercadolibre.com.ar/MLA-1518177150-ford-ranger-raptor-2019-financiacion-con-dni-_JM
 Ford Ranger 2019,Ford,Ranger,3.2 Cd Xlt Tdci 200cv Automática 4x2,148000,3.2,Diésel,Automática,2019,Rivadavia,17000000,ARS,https://auto.mercadolibre.com.ar/MLA-1498197572-ford-ranger-2019-32-cd-xlt-tdci-200cv-automatica-4x2-_JM
@@ -861,11 +793,6 @@ Ford Ranger 2019,Ford,Ranger,3.2 Cd Xlt Tdci 200cv Manual 4x2,22000,3.2,Diésel,
 Ford Ranger 2019,Ford,Ranger,Black Edition Cabina Doble 4x4 Diesel At,33000,3.2,Diésel,Automática,2019,Capital Federal,32000,ARS,https://auto.mercadolibre.com.ar/MLA-1506060410-ford-ranger-black-edition-limited-32l-4x4-6at-permuto-_JM
 Ford Ranger 2019,Ford,Ranger,3.2 Cd Limited Tdci 200cv Automática,98700,3.2,Diésel,Automática,2019,Ezeiza,29000,ARS,https://auto.mercadolibre.com.ar/MLA-1381985581-ford-ranger-32-cd-limited-tdci-200cv-automatica-2019-_JM
 Ford Ranger 2019,Ford,Ranger,3.2 Cd Xlt Tdci 200cv Automática 4x2,97410,3.2,Eléctrico,Automática,2019,Córdoba,19100000,ARS,https://auto.mercadolibre.com.ar/MLA-1504272484-ford-ranger-dc-4x2-xlt-at-32l-d-2019-_JM
-Honda Civic Si 1991,Honda,Civic,2.0 Si Mt,160000,2.0,Nafta,Manual,2008,San Isidro,21500,USD,https://auto.mercadolibre.com.ar/MLA-1393116935-honda-civic-2008-20-si-mt-_JM
-Honda Civic Si 1991,Honda,Civic,1.6 Si Hatchback At,200000,1.6,Nafta,Automática,1993,Vicente López,28500,USD,https://auto.mercadolibre.com.ar/MLA-1530108130-honda-civic-hatchback-vti-eg6-b16a2-1993-turbo-500hp-_JM
-Honda Civic Si 1991,Honda,Civic,2.0 Si Mt,165000,2.0,Nafta,Manual,2008,San Isidro,12900,USD,https://auto.mercadolibre.com.ar/MLA-1546136918-honda-civic-2008-20-si-mt-_JM
-Honda Civic Si 1991,Honda,Civic,1.6 Si Hatchback,111111,1.6,Nafta,Manual,1992,Tigre,1500,USD,https://auto.mercadolibre.com.ar/MLA-1526004348-honda-civic-1992-16-si-hatchback-_JM
-Honda Civic Si 1991,Honda,Civic,Si,111111,2.0,Nafta,Automática,2007,Rosario,7500,USD,https://auto.mercadolibre.com.ar/MLA-1391389007-honda-civic-si-_JM
 Acura Legend Coupe 1994,Acura,Legend,3.5 Ls Coupe,150000,3.5,Nafta,Manual,1992,Capital Federal,6900,USD,https://auto.mercadolibre.com.ar/MLA-1525586956-acura-legend-1992-35-ls-coupe-_JM
 Lexus LS 400 1990,Lexus,LS,4.0 400,80000,4.0,Nafta,Manual,1992,Capital Federal,15000,USD,https://auto.mercadolibre.com.ar/MLA-1526546142-lexus-ls-1992-40-400-_JM
 Lincoln Town Car 2005,Lincoln,Town Car,Galloway,111111,V8,Nafta,Automática,2003,Berazategui,20000,USD,https://auto.mercadolibre.com.ar/MLA-1543063178-lincoln-galloway-town-car-_JM
@@ -908,4 +835,3 @@ Ford Explorer XLT 1994,Ford,Explorer,4.0 Xlt 4x4 Limited,280000,4.0,Nafta,Manual
 Hummer H2 2005,Hummer,H2,H2,63025,6.0,Nafta,Automática,2005,San Isidro,165000,USD,https://auto.mercadolibre.com.ar/MLA-1438345556-hummer-h2-2005-_JM
 Hummer H2 2005,Hummer,H2,h2 Suv,50000,6.0,Nafta,Automática,2005,La Plata,168000,USD,https://auto.mercadolibre.com.ar/MLA-1505082152-hummer-h2-h2-suv-_JM
 Hummer H2 2005,Hummer,H2,H2,60000,329cv,Nafta,Automática,2007,Capital Federal,160000,USD,https://auto.mercadolibre.com.ar/MLA-1385056537-hummer-h2-h2-_JM
-Hummer H2 2005,Hummer,H2,H2,2000000,vortec,Nafta,Automática,2004,Capital Federal,170000,USD,https://auto.mercadolibre.com.ar/MLA-1383931577-hummer-h2-_JM
